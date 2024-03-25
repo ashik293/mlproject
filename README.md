@@ -1,1 +1,1 @@
-#ml project to study structure of general projects
+ml project to study structure of general projects
